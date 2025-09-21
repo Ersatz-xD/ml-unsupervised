@@ -42,7 +42,7 @@ ml-unsupervised/
 * Install dependencies:
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learnscipy
+pip install numpy pandas matplotlib seaborn scikit-learn scipy
 ```
 
 ---
@@ -90,6 +90,3 @@ jupyter notebook credit_card_fraud_detection.ipynb
 
 ---
 
-🔗 **Main Repo:** [ml-unsupervised](../..)
-
----
